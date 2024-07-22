@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="button_corner_radius">40dp</dimen>
+    <dimen name="button_image_height">160dp</dimen>
+    <dimen name="button_image_width">128dp</dimen>
+    <dimen name="button_interior_padding">24dp</dimen>
+    <dimen name="padding_vertical">16.dp</dimen>
+    <string name="Drink">Tap the lemonade to drink it.</string>
+    <string name="Drink_content_description">Drink the juice.</string>
+    <string name="Lemon_tree_content_description">tap to pick a lemon.</string>
+    <string name="PickLemon">Tap the lemon tree to pick a lemon 🍋.</string>
+    <string name="ReStart">Tap the empty glass to start again.</string>
+    <string name="Restart_content_description">Tap to restart.</string>
+    <string name="Squeeze">Keep tapping the lemon to squeeze it.</string>
+    <string name="Squeeze_content_description">tap the lemon to squeeze it.</string>
+    <string name="app_name">LemonadeApp</string>
+    <style name="Theme.LemonadeApp" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
